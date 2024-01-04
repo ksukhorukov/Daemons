@@ -14,7 +14,7 @@ Go to the directory of the daemon and type the following command:
 
 ## Base Daemon
 
-[Each second writes the timestamp to the log file](https://github.com/ksukhorukov/Daemons/base_daemon)
+[Each second writes the timestamp to the log file](https://github.com/ksukhorukov/Daemons/tree/master/base_daemon)
 
 # [EOF]
 
