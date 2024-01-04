@@ -12,9 +12,9 @@ Go to the directory and type the command:
 
 # Currently Available Daemons 
 
-## Basic Daemon
+## Base Daemon
 
-[Each second writes the timestamp to the log file](https://github.com/ksukhorukov/Daemons)
+[Each second writes the timestamp to the log file](https://github.com/ksukhorukov/Daemons/base_daemon)
 
 # [EOF]
 
