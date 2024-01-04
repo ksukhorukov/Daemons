@@ -23,6 +23,7 @@ class Daemon
   end 
 
   def write_to_log
+    print_current_message
     write_log_message
     invalidate_log_message
   end 
