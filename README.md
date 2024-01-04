@@ -21,7 +21,7 @@ user@air base_daemon $ ./run > /dev/null &
 
 Thats it! Now daemon is working... silently... writing all info to the 'logs.txt' by default
 
-# How To Get Back The Daemon From The Shadows To The Face Of Light
+# How To Move Daemons To The Foreground
 
 Just use 'fg' command
 
@@ -41,7 +41,7 @@ The first one - use kill command:
 kill -9 1805
 ```
 
-Or press [b]Ctrl + C[/b] command when you fetched the daemon to the foreground
+Or press **Ctrl + C** command when you fetched the daemon to the foreground
 
 # Currently Available Daemons 
 
