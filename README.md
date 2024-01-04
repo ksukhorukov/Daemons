@@ -4,7 +4,7 @@ I will create daemons from time to time...
 
 # Run
 
-Go to the directory and type the command:
+Go to the directory of the daemon and type the following command:
 
 ```
 ./run
